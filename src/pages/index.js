@@ -11,6 +11,7 @@ export default function Inicio(){
             <Image
                 src={Logo}
                 alt="Logo"
+                quality={50}
             />
         </>
     )
